@@ -12,6 +12,9 @@ Použijte tlačítko **Code → Download ZIP** na stránce repozitáře. Po rozb
 2. V administraci otevřete **Pluginy → Motivy**, znovu načtěte pluginy a aktivujte „Univerzální responzivní motiv“.
 3. V nastavení motivu otevřete **Konfigurovat** a nastavte `header_text`, `logo_url` a případně `logo_alt`.
 4. Boxy určené do pravého sloupce přiřaďte do slotu **pravý postranní panel**.
+<img width="1907" height="875" alt="nightmode" src="https://github.com/user-attachments/assets/40a9f487-fc34-488d-b63a-07df326534ba" />
+<img width="1906" height="866" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/5b9dffcf-c76f-4d65-b52b-77df3203b920" />
+<img width="1907" height="872" alt="FORUM" src="https://github.com/user-attachments/assets/5fa0ad15-78d6-49ea-983d-c643a3332939" />
 
 Automatické otevírání obrázků v Lightboxu vyžaduje aktivní plugin Lightbox v SunLight CMS. Volba barevného režimu se ukládá v prohlížeči.
 
